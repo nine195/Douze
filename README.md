@@ -1,6 +1,6 @@
 下载
 ```
-npm install douze-api@1.1.0
+npm install douze-api
 ```
 使用
 ```js

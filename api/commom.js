@@ -121,7 +121,7 @@ function Regular(value, type) {
 }
 
 
-module.exports = {
+export default{
     Flattening,
     UrlToData,
     LetterCase,

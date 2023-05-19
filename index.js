@@ -1,11 +1,10 @@
-const commom=require('./api/commom');
-const Time=require('./api/time');
 
-const data={
+import commom from './api/commom'
+import Time from './api/time'
+export default {
     ...Time,
     ...commom
-};
-module.exports=data
+}
 
 
 

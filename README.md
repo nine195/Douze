@@ -1,10 +1,10 @@
 下载
 ```
-npm install douze-api
+npm install douze-api@1.1.0
 ```
 使用
 ```js
-const Douze=require('douze-api')
+import Douze from 'douze-api';
 ```
 api
 ```js

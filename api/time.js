@@ -121,7 +121,7 @@ function parseTime(time, cFormat) {
 
 
 
-module.exports = {
+export default{
     Time,
     formatTime
 }

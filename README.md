@@ -72,7 +72,7 @@ Douze.Regular('nine195@qq.com',email)
 ```
 ```
 陆续更新~
-有更好的建议可以练习我：
+有更好的建议可以联系我：
 wx:Nine195
 qq:1959762008
 email：nine195@qq.com

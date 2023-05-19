@@ -1,0 +1,18 @@
+{
+  "name": "douze",
+  "version": "1.0.0",
+  "description": "封装一些前端js常用得方法，记录难点",
+  "main": "index.html",
+    "keywords": [
+    "douze",
+    "Nine195",
+    "1959762008",
+    "cv小张"
+  ],
+  "repository ":"https://github.com/nine195/Douze",
+  "webPreferences":{
+    "contextIsolation":false  
+  },
+  "author": "nine195@qq.com",
+  "license": "ISC"
+}

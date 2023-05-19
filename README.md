@@ -4,7 +4,7 @@ npm install douze-api
 ```
 使用
 ```js
-const Douze=require('douze')
+const Douze=require('douze-api')
 ```
 api
 ```js
@@ -76,4 +76,5 @@ Douze.Regular('nine195@qq.com',email)
 wx:Nine195
 qq:1959762008
 email：nine195@qq.com
+代码地址：https://github.com/nine195/Douze
 ```
